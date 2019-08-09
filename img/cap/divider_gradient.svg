@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="5px" viewBox="0 0 61 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 53 (72520) - https://sketchapp.com -->
+    <title>B8913C9A-A619-45EF-B578-8418832A35F1</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="17.7206889%" y1="50.1006315%" x2="89.222135%" y2="49.9184676%" id="linearGradient-1">
+            <stop stop-color="#5F8BE3" offset="0%"></stop>
+            <stop stop-color="#A540B0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="HomepageConcore" transform="translate(-610.000000, -1220.000000)" fill="url(#linearGradient-1)">
+            <rect id="divider_gradient" x="610" y="1220" width="61" height="5" rx="2.5"></rect>
+        </g>
+    </g>
+</svg>
